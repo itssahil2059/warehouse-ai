@@ -1,0 +1,20 @@
+# Don't push API keys
+.env
+
+# Don't push database
+*.db
+warehouse.db
+
+# Python stuff
+__pycache__/
+*.pyc
+.Python
+venv/
+.venv/
+
+# Mac stuff
+.DS_Store
+
+# IDE stuff
+.vscode/
+.idea/
