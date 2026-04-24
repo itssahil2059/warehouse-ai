@@ -1,0 +1,8 @@
+# AI stuff
+openai>=1.12.0
+
+# Web interface
+gradio>=4.0.0
+
+# Read .env files
+python-dotenv>=1.0.0
