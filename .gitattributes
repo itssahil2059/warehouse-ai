@@ -1,0 +1,19 @@
+# Auto detect text files and normalize line endings
+* text=auto
+
+# Python files
+*.py text eol=lf
+
+# SQL files
+*.sql text eol=lf
+
+# Markdown files
+*.md text eol=lf
+
+# Environment files
+.env* text eol=lf
+
+# Database files (binary)
+*.db binary
+*.sqlite binary
+*.sqlite3 binary
