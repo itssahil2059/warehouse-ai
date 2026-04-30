@@ -524,4 +524,5 @@ If this project helped you, please ⭐ star the repository!
 
 ---
 
-⭐ **Star this repo if you found it helpful!** ⭐
+echo "" >> README.md
+echo "Last updated: $(date +%Y-%m-%d)" >> README.md
